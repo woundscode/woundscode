@@ -1,56 +1,49 @@
-<h1 align="left">Hey there, I'm Kristofer! 👋</h1>
+<img src="./assets/profile-art.png" width="26%" align="right" alt="wounds, an anime wanderer in a sunlit field">
 
-###
+### 👋 hi, I'm wounds.
 
-<img align="right" height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnJ5djV5MmVraW5haGRzcmZhOHJtNnlyNHA4YngyNWVuOGl2bXdubyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LHZyixOnHwDDy/giphy.gif" />
+**vibe coder, web designer, game designer, and content creator.**
 
-###
+I build agent tools, creative workflows, and strange little systems<br>where AI gets access to real devices.
 
-<p align="left">AI explorer, automation builder & code tinkerer<br>"powered by curiosity and way too many tokens 🤖"<br><br>Spotify is basically always running — silence feels suspicious 🎧<br>Sleepy by name. Coding by choice. 🐈‍⬛💻</p>
+**vibe-coded software. human-written words.**
 
-###
+<pre>
+🤖 vibe coding • AI agents • automation
+⌨️ codex • claude code • custom skills
+🎨 gpt image 2 • ideogram • reve
+🐧 macOS • game development • experimenting
+🧰 tools I've worked with: claude code • claude design • codex
+   opencode • notebookLM • obsidian • n8n
+</pre>
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SleepyCodeMeow.SleepyCodeMeow&" alt="visitor badge" />
-</div>
+<p>
+  <a href="https://www.agentation.com/"><img src="./assets/skills/agentation.svg" height="30" alt="Agentation"></a>
+  <a href="https://github.com/Graphify-Labs/graphify"><img src="./assets/skills/graphify.svg" height="30" alt="Graphify"></a>
+  <a href="https://github.com/woundscode/ObsidianDataWeave#llm-wiki"><img src="./assets/skills/llm-wiki.svg" height="30" alt="LLM Wiki"></a>
+  <a href="https://github.com/open-gsd/gsd-core"><img src="./assets/skills/gsd-core.svg" height="30" alt="GSD Core"></a>
+  <a href="https://github.com/garrytan/gstack"><img src="./assets/skills/gstack.svg" height="30" alt="gstack"></a>
+</p>
 
-###
+<br clear="right">
+
+### 🌤️ outside the terminal
+
+I'm into gameplay-first single-player and indie games, moddable gadgets,<br>mechanical keyboards, Japanese anime trading cards, and the pure joy of typing.
+
+I'm also the creator of the **wounds** and **[wounds.dev](https://wounds.dev/)** brands.
+
+native Russian speaker. English when necessary. still waiting for neuralese.
 
 <div align="center">
-  <br>
-
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="20" alt="html5 logo" />
-  <img width="4" />
-
-  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="20" alt="css logo" />
-  <img width="4" />
-
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="20" alt="javascript logo" />
-  <img width="4" />
-
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="20" alt="typescript logo" />
-  <img width="4" />
-
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="20" alt="python logo" />
-  <img width="4" />
-
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="20" alt="react logo" />
-  <img width="4" />
-
-  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" height="20" alt="go logo" />
-  <img width="4" />
-
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" height="20" alt="kotlin logo" />
-  <img width="4" />
-
-  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" height="20" alt="rust logo" />
-  <img width="4" />
-
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="20" alt="github logo" />
-  <img width="4" />
-
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="20" alt="vscode logo" />
-  <img width="4" />
+  <img src="./assets/nadzuna-typing.gif" width="72" alt="Nadzuna typing on a laptop">
 </div>
 
-###
+<div align="center">
+  <a href="https://t.me/woundscode"><img src="./assets/buttons/telegram.svg" height="28" alt="Telegram"></a>
+  <a href="https://www.youtube.com/@woundscode"><img src="./assets/buttons/youtube.svg" height="28" alt="YouTube"></a>
+  <a href="https://wounds.dev/"><img src="./assets/buttons/website.svg" height="28" alt="Website"></a>
+  <a href=""><img src="./assets/buttons/x.svg" height="28" alt="X"></a>
+</div>
+
+<!-- This repository powers the public @howdeploy profile. -->
